@@ -1,0 +1,7 @@
+jedno malo glupo resenje:
+u "Component" klasu dodam promenljivu "cid", i :
+       u konstruktoru za SpecificComponent: cid=id, ili tako nesto
+
+
+
+getId() definisano staticki?
